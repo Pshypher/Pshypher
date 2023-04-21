@@ -1,4 +1,6 @@
+<p align="center">
 ### Hi there 👋
+</p>
 
 <!--
 **Pshypher/Pshypher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/7406285/233572195-216e0855-fc00-49a6-bd30-4eb4c010a6db.gif" alt="my banner">
+<img src="https://user-images.githubusercontent.com/7406285/233575934-0c702abc-9e49-42bd-913d-a6e5a78eda07.gif" alt="my banner">
 </p>
