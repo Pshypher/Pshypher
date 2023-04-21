@@ -3,6 +3,8 @@
 <!--
 **Pshypher/Pshypher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://user-images.githubusercontent.com/7406285/233566037-a514fbf4-9fc2-4a58-8265-e4d5ec395a60.mp4" alt="my banner">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
