@@ -1,4 +1,4 @@
-<p align="center">👋</p>
+<p align="center">## 👋 ##</p>
 
 <!--
 **Pshypher/Pshypher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/7406285/233926519-69845257-4f57-4921-88f6-74c289216b97.gif" alt="my-banner">
+</p>
+
+<p align="center">
+    ### 🧵 Technical Stacks ###
 </p>
