@@ -30,34 +30,56 @@ Here are some ideas to get you started:
 <p float="center">
 <img alt="reactivex" width="36px" height="36px" src="https://user-images.githubusercontent.com/7406285/233952955-e0dc6b49-3cdf-4eba-a512-683037f4a05c.svg">
 
-&emsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 <img alt="kotlinx" width="36px"height="36px" src="https://user-images.githubusercontent.com/7406285/233954639-cb5accfc-0e00-45b1-8d37-3a0185d3382f.svg">
 
-&emsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 <img alt="java" width="36px" height="36px" src="https://user-images.githubusercontent.com/7406285/233954688-736275ec-367b-481c-a4d9-0766db217d58.svg">
 
-&emsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-<img alt="realm-io" width="64px" height="64px" src="https://user-images.githubusercontent.com/7406285/233954715-3dc32a7d-8722-4856-8d6d-e879eb9f0caa.svg">
+<img alt="realm-io" width="72px" height="72px" src="https://user-images.githubusercontent.com/7406285/233954715-3dc32a7d-8722-4856-8d6d-e879eb9f0caa.svg">
 
-&emsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 <img alt="android-sdk" width="36px" height="36px" src="https://user-images.githubusercontent.com/7406285/233954736-908c9460-c181-402f-8239-350a9c21f805.svg">
 
-&emsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 <img alt="graph-ql" width="36px" height="36px" src="https://user-images.githubusercontent.com/7406285/233954811-e253493b-c695-4800-aae2-016a1bec607f.svg">
 
-&emsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-<img alt="apollo-graph-ql" width="64px" height="64px" src="https://user-images.githubusercontent.com/7406285/233962221-74a6c26a-388c-4eb3-a936-88704c7b2976.svg">
+<img alt="apollo-graph-ql" width="72px" height="72px" src="https://user-images.githubusercontent.com/7406285/233962221-74a6c26a-388c-4eb3-a936-88704c7b2976.svg">
 
-&emsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 <img alt="jetpack-compose" width="36px" height="36px" src="https://user-images.githubusercontent.com/7406285/233954890-a1b70072-a548-4c7c-a211-f3de5174d368.png">
 </p>
+
 - - - -
 
 <h2 align="center">📑 I’m currently learning ...</h2>
