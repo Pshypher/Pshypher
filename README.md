@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">👣 Meet Me</h2>
-<p align="center" style="color:#78C259;">
+<sub align="center">
 <font size="-2" color="#78C259" family="monospace">
 1/2-man 1/2-machine life form built to instruct computer hardware to execute lines of code frequently sequentially, often asynchronously, other times recursively, and occasionally concurrently. I'm largely a nerd with a huge obsession for performance and code optimizations that's why most of my study times are allotted to threading, data structures, and algorithms.
 </font>
-</p>
+</sub>
 
 - - - -
 
