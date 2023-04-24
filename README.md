@@ -19,4 +19,8 @@ Here are some ideas to get you started:
     <img src="https://user-images.githubusercontent.com/7406285/233926519-69845257-4f57-4921-88f6-74c289216b97.gif" alt="my-banner">
 </p>
 
-<h3 align="center"> 🧵 Technical Stacks </h3>
+<h2 align="center">👣 MeetMe</h2>
+---------------
+
+<h3 align="center">🧵 Crafts</h3>
+---------------
