@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 &nbsp;
 &nbsp;
 
-<img alt="kotlinx" width="36px"height="36px" src="https://user-images.githubusercontent.com/7406285/233954639-cb5accfc-0e00-45b1-8d37-3a0185d3382f.svg">
+<img alt="kotlinx" width="36px" height="36px" src="https://user-images.githubusercontent.com/7406285/233954639-cb5accfc-0e00-45b1-8d37-3a0185d3382f.svg">
 
 &nbsp;
 &nbsp;
