@@ -1,4 +1,4 @@
-<h2 align="center">👋</h2>
+<h1 align="center">👋</h2>
 
 <!--
 **Pshypher/Pshypher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">👣 MeetMe</h2>
+<p align="center" style="color:#78C259;">1/2-man 1/2-machine life form built to instruct computer hardware to execute lines of code frequently sequentially, often asynchronously, other times recursively, and occasionally concurrently. 1/2-man 1/2-machine life form built to instruct computer hardware to execute lines of code frequently sequentially, often asynchronously, other times recursively, and occasionally concurrently.</p>
 
-<h3 align="center">🧵 Crafts</h3>
+- - - -
+
+<h2 align="center">🧵 Crafts</h2>
 
