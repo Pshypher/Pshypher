@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2 align="center">👣 Meet me ...</h2>
 <div align="middle">
 <img alt="nerd|animation" src="https://user-images.githubusercontent.com/7406285/234105632-9ab5e3b4-c38d-4faf-8d52-ea40dc8cb738.gif" align="left" width="256px" />
-<p align="right"> &nbsp;&nbsp; <code>1/2-man 1/2-machine life form built to instruct computer hardware to execute lines of code frequently sequentially, often asynchronously, other times recursively, and occasionally concurrently. I'm largely a nerd with a huge obsession for performance and code optimizations that's why most of my study times are allotted to threading, data structures, and algorithms.</code> </p>
+<p align="right"><samp>1/2-man 1/2-machine life form built to instruct computer hardware to execute lines of code frequently sequentially, often asynchronously, other times recursively, and occasionally concurrently. I'm largely a nerd with a huge obsession for performance and code optimizations that's why most of my study times are allotted to threading, data structures, and algorithms.</samp> </p>
 </div>
 
 - - - -
