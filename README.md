@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <img alt="nerd|animation" src="https://user-images.githubusercontent.com/7406285/234105632-9ab5e3b4-c38d-4faf-8d52-ea40dc8cb738.gif" align="left" width="264px" />
 <p align="center"><samp>1/2-man 1/2-machine life form built to instruct computer hardware to execute lines of code frequently sequentially, often asynchronously, other times recursively, and occasionally concurrently. I'm largely a nerd with a huge obsession for performance and code optimizations that's why most of my study times are allotted to threading, data structures, and algorithms.</samp> </p>
 <br/>
-<br/>
 </div>
 
 - - - -
