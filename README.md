@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - - - -
 
 <h2 align="center">⌨️ Tools of Trade ...</h2>
-<img alt="reactivex" width="50px"height="50px" src="https://user-images.githubusercontent.com/7406285/233952955-e0dc6b49-3cdf-4eba-a512-683037f4a05c.svg">
+<img alt="reactivex" width="36px"height="36px" src="https://user-images.githubusercontent.com/7406285/233952955-e0dc6b49-3cdf-4eba-a512-683037f4a05c.svg">
 
 - - - -
 
