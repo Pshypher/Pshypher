@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">📧 How to reach me: ...</h2>
 <p align="middle">
-<a href="https://www.linkedin.com/in/jimi-shote-1aa14b7a"><img  src="https://raw.githubusercontent.com/Pshypher/Pshypher/main/images/linkedin.png" alt="icon|LinkedIn" width="36px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://stackoverflow.com/users/12557187/pshypher"><img src="https://raw.githubusercontent.com/Pshypher/Pshypher/main/images/stack-overflow.png" alt="icon|StackOverflow" width="36px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="mailto://jimishote@gmail.com"><img src="https://raw.githubusercontent.com/Pshypher/Pshypher/main/images/gmail.png" alt="icon|Gmail" width="36px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://medium.com/@Pshypher"><img src="https://raw.githubusercontent.com/Pshypher/Pshypher/main/images/medium.png" alt="icon|Medium" width="36px"/></a>
+<a href="https://www.linkedin.com/in/jimi-shote-1aa14b7a"><img  src="https://raw.githubusercontent.com/Pshypher/Pshypher/main/images/socials/linkedin.png" alt="icon|LinkedIn" width="36px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://stackoverflow.com/users/12557187/pshypher"><img src="https://raw.githubusercontent.com/Pshypher/Pshypher/main/images/socials/stack-overflow.png" alt="icon|StackOverflow" width="36px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="mailto://jimishote@gmail.com"><img src="https://raw.githubusercontent.com/Pshypher/Pshypher/main/images/socials/gmail.png" alt="icon|Gmail" width="36px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://medium.com/@Pshypher"><img src="https://raw.githubusercontent.com/Pshypher/Pshypher/main/images/socials/medium.png" alt="icon|Medium" width="36px"/></a>
 </p>
 
 - - - -
