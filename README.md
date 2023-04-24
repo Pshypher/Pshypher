@@ -27,18 +27,16 @@ Here are some ideas to get you started:
 - - - -
 
 <h2 align="center">⌨️ Tools of Trade ...</h2>
-<img alt="reactivex" src=https://user-images.githubusercontent.com/7406285/233947695-d72e53ee-b1eb-4b9d-8721-fbe3251cec70.svg">
+<svg alt="reactivex" src="https://user-images.githubusercontent.com/7406285/233947695-d72e53ee-b1eb-4b9d-8721-fbe3251cec70.svg">
 
 - - - -
 
 <h2 align="center">📑 I’m currently learning ...</h2>
-<sub>
 <ul>
 <li>Data Structures & Algorithms</li>
 <li>Multithreading in Android</li>
 <li>Drawing Custom shapes and widgets using Jetpack Compose</li>
 </ul>
-</sub>
 
 - - - -
 
