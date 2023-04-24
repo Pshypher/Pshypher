@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">👣 MeetMe</h2>
----------------
 
 <h3 align="center">🧵 Crafts</h3>
----------------
+
