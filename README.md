@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">📑 I’m currently learning ...</h2>
 <ul>
-<li>Data Structures & Algorithms</li>
-<li>Multithreading in Android</li>
-<li>Drawing Custom shapes and widgets using Jetpack Compose</li>
+<li><tt>Data Structures & Algorithms</tt></li>
+<li><tt>Multithreading in Android</tt></li>
+<li><tt>Drawing Custom shapes and widgets using Jetpack Compose</tt></li>
 </ul>
 
 - - - -
