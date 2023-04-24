@@ -19,10 +19,14 @@ Here are some ideas to get you started:
     <img src="https://user-images.githubusercontent.com/7406285/233926519-69845257-4f57-4921-88f6-74c289216b97.gif" alt="my-banner">
 </p>
 
-<h2 align="center">👣 MeetMe</h2>
-<p align="center" style="color:#78C259;">1/2-man 1/2-machine life form built to instruct computer hardware to execute lines of code frequently sequentially, often asynchronously, other times recursively, and occasionally concurrently. 1/2-man 1/2-machine life form built to instruct computer hardware to execute lines of code frequently sequentially, often asynchronously, other times recursively, and occasionally concurrently.</p>
+<h2 align="center">👣 Meet Me</h2>
+<p align="center" style="color:#78C259;">
+<font size="-2" color="#78C259" family="monospace">
+1/2-man 1/2-machine life form built to instruct computer hardware to execute lines of code frequently sequentially, often asynchronously, other times recursively, and occasionally concurrently. I'm largely a nerd with a huge obsession for performance and code optimizations that's why most of my study times are allotted to threading, data structures, and algorithms.
+</font>
+</p>
 
 - - - -
 
-<h2 align="center">🧵 Crafts</h2>
+<h2 align="center">⌨️ Tools of Trade</h2>
 
