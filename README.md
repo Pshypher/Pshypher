@@ -51,8 +51,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">📈 Github stats ...</h2>
 
-<a href="https://github.com/Pshypher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pshypher" />
-</a>
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Pshypher&show_icons=true&theme=transparent)](https://github.com/Pshypher)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pshypher&layout=compact)](https://github.com/Pshypher)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pshypher&layout=compact&theme=transparent)](https://github.com/Pshypher)
