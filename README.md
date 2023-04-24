@@ -44,3 +44,10 @@ Here are some ideas to get you started:
 
 <h2 align="center">📧 How to reach me: ...</h2>
 
+- - - -
+
+<h2 align="center">📈 Github stats ...</h2>
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Pshypher)](https://github.com/Pshypher)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pshypher&layout=compact)](https://github.com/Pshypher)
