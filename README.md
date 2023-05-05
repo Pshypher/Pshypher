@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 - - - -
 
 <h2 align="center">📑 I’m currently learning ...</h2>
-<ul>
-<li><tt>Data Structures & Algorithms</tt></li>
-<li><tt>Multithreading in Android</tt></li>
-<li><tt>Drawing Custom shapes and widgets using Jetpack Compose</tt></li>
-</ul>
+<ol>
+<li><samp>Data Structures & Algorithms</samp></li>
+<li><samp>Multithreading in Android</samp></li>
+<li><samp>Drawing Custom shapes and widgets using Jetpack Compose</samp></li>
+</ol>
 
 - - - -
 
