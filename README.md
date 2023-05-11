@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/7406285/233926519-69845257-4f57-4921-88f6-74c289216b97.gif" width="1024" alt="my-banner">
+    <img src="https://raw.githubusercontent.com/Pshypher/Pshypher/main/images/banner.gif" alt="my-banner">
 </p>
 
 <h2 align="center">👣 Meet me ...</h2>
