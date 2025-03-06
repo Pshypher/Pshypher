@@ -37,11 +37,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">📑 I’m currently learning ...</h2>
 <ul>
+<li><samp>Android Automotive</samp></li>
 <li><samp>Data Structures & Algorithms</samp></li>
 <li><samp>Rust</samp></li>
-<li><samp>Blockchain</samp></li>
-<li><samp>Solana</samp></li>
-<li><samp>Cryptography</samp></li>
 </ul>
 
 - - - -
