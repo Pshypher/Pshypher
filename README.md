@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <ul>
 <li><samp>C/C++</samp></li>
 <li><samp>Data Structures & Algorithms</samp></li>
-<li><samp>Android Custom Views</samp></li>
+<li><samp>Kotlin Multiplatform/Compose Multiplatform</samp></li>
 </ul>
 
 - - - -
