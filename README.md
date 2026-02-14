@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 [![Pshypher's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pshypher&show_icons=true&theme=transparent)](https://github.com/Pshypher)
 
 
-![Top Languages](https://metrics.lecoq.io/Pshypher?template=classic&base=false&plugin_languages=yes&plugin_languages_sections=most-used&plugin_languages_details=percentage)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pshypher&layout=compact&theme=transparent)](https://github.com/Pshypher)
